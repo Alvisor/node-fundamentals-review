@@ -1,0 +1,12 @@
+{
+  "name": "fundamentals-review",
+  "version": "1.0.0",
+  "description": "Basic Event Loop, modules managements and NPM scripts review in node.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
